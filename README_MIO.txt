@@ -1,4 +1,4 @@
--por si acaso ejecuten estas mamadas en el frontend antes de ejecutar el dev:
+-por si acaso ejecuten estas cosas en el frontend antes de ejecutar el dev:
 npm create vite@latest frontend -- --template vue
 npm install pinia vue-router axios
 npm install pinia axios
